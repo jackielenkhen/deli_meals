@@ -1,0 +1,83 @@
+{      
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.rulers": [80],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "editor.bracketPairColorization.enabled": true,
+        "editor.guides.bracketPairs":"active"
+      },
+
+    "workbench.colorCustomizations": {
+      "[Material Theme Darker]": {
+          "statusBar.debuggingBackground": "#212121",
+      }
+  },
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "dart.openDevTools": "flutter",
+    "explorer.confirmDragAndDrop": false,   
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      }
+
+
+}
