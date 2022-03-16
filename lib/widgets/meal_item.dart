@@ -11,6 +11,11 @@ class MealItem extends StatelessWidget {
   final Complexity complexity;
   final Affordability affordability;
   final Function removeItem;
+  // final bool isGlutenFree;
+  // final bool isLactoseFree;
+  // final bool isVegan;
+  // final bool isVegetarian;
+ 
 
   MealItem(
       {required this.id,
