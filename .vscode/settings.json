@@ -64,7 +64,7 @@
       "bold": false,
       "italic": false
     }
-  ]
+  ],
     "files.autoSave": "afterDelay",
     "editor.minimap.enabled": false,
     "dart.openDevTools": "flutter",
@@ -78,6 +78,4 @@
       "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
       }
-
-
 }
